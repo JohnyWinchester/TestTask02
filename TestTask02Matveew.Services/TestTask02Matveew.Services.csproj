@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestTask02Matveew.DAL\TestTask02Matveew.DAL.csproj" />
+    <ProjectReference Include="..\TestTask02Matveew.Domain\TestTask02Matveew.Domain.csproj" />
+    <ProjectReference Include="..\TestTask02Matveew.Interfaces\TestTask02Matveew.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

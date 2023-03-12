@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestTask02Matveew.DAL\TestTask02Matveew.DAL.csproj" />
+    <ProjectReference Include="..\TestTask02Matveew.Domain\TestTask02Matveew.Domain.csproj" />
+    <ProjectReference Include="..\TestTask02Matveew.Interfaces\TestTask02Matveew.Interfaces.csproj" />
+    <ProjectReference Include="..\TestTask02Matveew.Services\TestTask02Matveew.Services.csproj" />
+  </ItemGroup>
+
+</Project>

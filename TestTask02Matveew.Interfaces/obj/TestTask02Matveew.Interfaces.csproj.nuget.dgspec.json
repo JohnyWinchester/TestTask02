@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Interfaces\\TestTask02Matveew.Interfaces.csproj": {}
+  },
+  "projects": {
+    "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\TestTask02Matveew.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\TestTask02Matveew.Domain.csproj",
+        "projectName": "TestTask02Matveew.Domain",
+        "projectPath": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\TestTask02Matveew.Domain.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Interfaces\\TestTask02Matveew.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Interfaces\\TestTask02Matveew.Interfaces.csproj",
+        "projectName": "TestTask02Matveew.Interfaces",
+        "projectPath": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Interfaces\\TestTask02Matveew.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Stuio Кэш\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\TestTask02Matveew.Domain.csproj": {
+                "projectPath": "E:\\GeekBrains\\TestTask02\\TestTask02Matveew\\TestTask02Matveew.Domain\\TestTask02Matveew.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

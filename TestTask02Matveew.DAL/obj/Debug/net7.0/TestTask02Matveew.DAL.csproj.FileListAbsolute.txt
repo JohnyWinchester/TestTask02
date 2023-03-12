@@ -1,0 +1,17 @@
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.DAL.deps.json
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.DAL.runtimeconfig.json
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.DAL.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.DAL.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.Domain.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\bin\Debug\net7.0\TestTask02Matveew.Domain.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.csproj.AssemblyReference.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.AssemblyInfoInputs.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.AssemblyInfo.cs
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.csproj.CoreCompileInputs.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.csproj.CopyComplete
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\refint\TestTask02Matveew.DAL.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\TestTask02Matveew.DAL.genruntimeconfig.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.DAL\obj\Debug\net7.0\ref\TestTask02Matveew.DAL.dll

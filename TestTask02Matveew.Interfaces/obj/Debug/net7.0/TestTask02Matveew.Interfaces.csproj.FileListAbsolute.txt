@@ -1,0 +1,15 @@
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\bin\Debug\net7.0\TestTask02Matveew.Interfaces.deps.json
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\bin\Debug\net7.0\TestTask02Matveew.Interfaces.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\bin\Debug\net7.0\TestTask02Matveew.Interfaces.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.csproj.AssemblyReference.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.AssemblyInfoInputs.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.AssemblyInfo.cs
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.csproj.CoreCompileInputs.cache
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\refint\TestTask02Matveew.Interfaces.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\ref\TestTask02Matveew.Interfaces.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\bin\Debug\net7.0\TestTask02Matveew.Domain.dll
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\bin\Debug\net7.0\TestTask02Matveew.Domain.pdb
+E:\GeekBrains\TestTask02\TestTask02Matveew\TestTask02Matveew.Interfaces\obj\Debug\net7.0\TestTask02Matveew.Interfaces.csproj.CopyComplete
